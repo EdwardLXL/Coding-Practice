@@ -1,3 +1,3 @@
 # Coding-Practice
 
-Recording my daily coding practice notes.
+Recording my daily coding practices.
